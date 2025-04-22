@@ -1,2 +1,2 @@
 # MyPython
-For Python Codings
+Python Assignment in (TuteDude)
