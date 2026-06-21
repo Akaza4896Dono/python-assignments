@@ -1,4 +1,4 @@
-with open("s.txt","r") as f:
+with open("Sample.txt","r") as f:
     data=f.readline()
     while data:
         print(data)
